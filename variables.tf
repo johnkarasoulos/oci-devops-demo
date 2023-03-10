@@ -11,8 +11,8 @@ variable "app_name" {
 }
 
 variable "release" {
-  description = "Reference Architecture Release (OCI Architecture Center)"
-  default     = "1.0"
+  description = "Architecture changes for john.karasoulos tenancy"
+  default     = "2.0"
 }
 
 variable "execute_deployment" {
